@@ -1,0 +1,74 @@
+{
+  "produk_motor": [
+    {
+      "nama": "Honda CB150R",
+      "merk": "Honda",
+      "tahun": 2022,
+      "warna": "Merah",
+      "harga": 35000000
+    },
+    {
+      "nama": "Yamaha NMAX",
+      "merk": "Yamaha",
+      "tahun": 2021,
+      "warna": "Hitam",
+      "harga": 33000000
+    },
+    {
+      "nama": "Suzuki GSX-R150",
+      "merk": "Suzuki",
+      "tahun": 2022,
+      "warna": "Biru",
+      "harga": 38000000
+    },
+    {
+      "nama": "Kawasaki Ninja 250",
+      "merk": "Kawasaki",
+      "tahun": 2021,
+      "warna": "Hijau",
+      "harga": 60000000
+    },
+    {
+      "nama": "Yamaha XSR155",
+      "merk": "Yamaha",
+      "tahun": 2022,
+      "warna": "Silver",
+      "harga": 42000000
+    },
+    {
+      "nama": "Honda CBR250RR",
+      "merk": "Honda",
+      "tahun": 2022,
+      "warna": "Hitam Merah",
+      "harga": 68000000
+    },
+    {
+      "nama": "Suzuki GSX-S150",
+      "merk": "Suzuki",
+      "tahun": 2021,
+      "warna": "Putih",
+      "harga": 32000000
+    },
+    {
+      "nama": "Kawasaki Z250",
+      "merk": "Kawasaki",
+      "tahun": 2022,
+      "warna": "Merah Hitam",
+      "harga": 53000000
+    },
+    {
+      "nama": "Yamaha MT-15",
+      "merk": "Yamaha",
+      "tahun": 2021,
+      "warna": "Orange",
+      "harga": 31000000
+    },
+    {
+      "nama": "Honda ADV150",
+      "merk": "Honda",
+      "tahun": 2022,
+      "warna": "Putih Biru",
+      "harga": 41000000
+    }
+  ]
+}
