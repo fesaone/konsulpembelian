@@ -1,0 +1,39 @@
+{
+  "kendaraan": [
+    {
+      "nama": "PANIGALE V2",
+      "warna": [
+        {
+          "warna": "Biru",
+          "harga": 28970000,
+          "gambar": "https://fesa.one/wp-content/uploads/2023/06/Panigale-V2.webp"
+        }
+      ]
+    },
+    {
+      "nama": "STREETFIGHTER V4 SP2",
+      "warna": [
+        {
+          "warna": "Black",
+          "harga": 27990000,
+          "gambar": "https://fesa.one/wp-content/uploads/2023/04/black.png"
+        },
+        {
+          "warna": "Red",
+          "harga": 28990000,
+          "gambar": "https://fesa.one/wp-content/uploads/2023/04/red.png"
+        }
+      ]
+    },
+    {
+      "nama": "PANIGALE V4 R",
+      "warna": [
+        {
+          "warna": "Merah",
+          "harga": 28990000,
+          "gambar": "https://fesa.one/wp-content/uploads/2023/04/m3.png"
+        }
+      ]
+    }
+  ]
+}
