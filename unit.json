@@ -4,9 +4,14 @@
       "nama": "PANIGALE V2",
       "warna": [
         {
-          "warna": "Biru",
-          "harga": 28970000,
+          "warna": "Hitam",
+          "harga": 38970000,
           "gambar": "https://fesa.one/wp-content/uploads/2023/06/Panigale-V2.webp"
+        },
+        {
+          "warna": "Merah",
+          "harga": 35850000,
+          "gambar": "https://images.ctfassets.net/x7j9qwvpvr5s/6Vy7PTvkJpSb4eQBJTDsvi/ad005023bb347bf0e6003da5797aa9fd/PV2-Rd-MY22-Model-Preview-1050x650-v06.png"
         }
       ]
     },
@@ -14,13 +19,13 @@
       "nama": "STREETFIGHTER V4 SP2",
       "warna": [
         {
-          "warna": "Black",
-          "harga": 27990000,
+          "warna": "Hitam",
+          "harga": 47990000,
           "gambar": "https://fesa.one/wp-content/uploads/2023/04/black.png"
         },
         {
-          "warna": "Red",
-          "harga": 28990000,
+          "warna": "Merah",
+          "harga": 48990000,
           "gambar": "https://fesa.one/wp-content/uploads/2023/04/red.png"
         }
       ]
